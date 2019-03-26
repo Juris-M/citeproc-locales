@@ -1,6 +1,6 @@
 {
     "name": "citeproc-locales",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Bundled CSL locales for citeproc-runner",
     "main": "getLocalePath.js",
     "scripts": {

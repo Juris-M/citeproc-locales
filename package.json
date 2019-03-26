@@ -1,0 +1,18 @@
+{
+    "name": "citeproc-locales",
+    "version": "1.0.0",
+    "description": "Bundled CSL locales for citeproc-runner",
+    "main": "getLocalePath.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "files": [
+        "locales/*.xml"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Juris-M/citeproc-locales.git"
+    },
+    "author": "Frank Bennett <biercenator@gmail.com>",
+    "license": "MIT"
+}
